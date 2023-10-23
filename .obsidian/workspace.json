@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starting point.md",
+                "file": "Notes/Creating the first micro service.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starting point.md",
+                "file": "Notes/Creating the first micro service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starting point.md",
+                "file": "Notes/Creating the first micro service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Starting point.md"
+                "file": "Notes/Creating the first micro service.md"
               }
             }
           }
@@ -157,16 +157,20 @@
   },
   "active": "c987dffa5324e9a1",
   "lastOpenFiles": [
-    "Starting point.md",
-    "Code/backend.api.carsite",
-    "Code",
-    "New folder",
-    "CourseAssets/__MACOSX/CourseAssets/snippets/deploy",
-    "CourseAssets/CourseAssets/snippets/deploy/svc-docker-identity.txt",
-    "CourseAssets/CourseAssets/snippets/deploy/dev-secrets.txt",
-    "CourseAssets/CourseAssets/snippets/deploy/deploy-identity.txt",
-    "CourseAssets/CourseAssets/snippets/deploy/dc-identity.txt",
-    "CourseAssets/__MACOSX/CourseAssets/specs",
-    "CourseAssets/__MACOSX/CourseAssets/postman"
+    "Code/backend.api.carsite/src/AuctionService/obj/a4daa2ef-3cf3-4714-8de3-f984965d2b15.tmp",
+    "Code/backend.api.carsite/src/AuctionService/obj/Debug/net7.0/AuctionService.AssemblyInfo.cs",
+    "Code/backend.api.carsite/src/AuctionService/obj/Debug/net7.0/AuctionService.AssemblyInfoInputs.cache",
+    "Code/backend.api.carsite/src/AuctionService/obj/Debug/net7.0/AuctionService.GeneratedMSBuildEditorConfig.editorconfig",
+    "Code/backend.api.carsite/src/AuctionService/obj/Debug/net7.0/staticwebassets",
+    "Code/backend.api.carsite/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.AssemblyReference.cache",
+    "Code/backend.api.carsite/src/AuctionService/obj/Debug/net7.0/AuctionService.GlobalUsings.g.cs",
+    "Code/backend.api.carsite/src/AuctionService/obj/Debug/net7.0/ref",
+    "Code/backend.api.carsite/src/AuctionService/obj/Debug/net7.0/refint",
+    "Code/backend.api.carsite/src/AuctionService/bin/Debug/net7.0",
+    "Code/backend.api.carsite/src/AuctionService/bin/Debug",
+    "Notes/Micro Services Project management notes.md",
+    "Notes/Creating the first micro service.md",
+    "Notes/Starting point.md",
+    "Starting point.md"
   ]
 }
