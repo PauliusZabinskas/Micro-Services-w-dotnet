@@ -1,6 +1,6 @@
 # List of commands and explanation:
 
-## Create first micro service
+## 8. Create first micro service
 
 -  Create a folder
 	- ``mkdir <folderName>``
@@ -13,11 +13,13 @@
 - Becouse in this case we are using a solutions file, we can put api to the solutions file:
 	- `dotnet sln add src/AuctionService`
 
-## Reviewing and simplifying the project
+## 9 . Reviewing and simplifying the project
 
 - Cleaning initial files will be added to git branch for future review
 - To run api, live updates, hot reloads:
 	- `dotnet watch`
+## 10. Adding the entity classes
+- 
 ## Unrelated but worth to take a note of
 
 - To check what SDK we have:
