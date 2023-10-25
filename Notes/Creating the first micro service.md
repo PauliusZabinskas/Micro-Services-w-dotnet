@@ -19,6 +19,8 @@
 - To run api, live updates, hot reloads:
 	- `dotnet watch`
 ## 10. Adding the entity classes
+- Create new folder in AuctionServices called `Entities`
+- Create new file, class `Auction.cs`
 - 
 ## Unrelated but worth to take a note of
 
