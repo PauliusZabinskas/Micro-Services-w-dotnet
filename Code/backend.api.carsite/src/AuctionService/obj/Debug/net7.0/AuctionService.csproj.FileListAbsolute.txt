@@ -23,3 +23,17 @@ C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\b
 C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\obj\Debug\net7.0\AuctionService.pdb
 C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\obj\Debug\net7.0\AuctionService.genruntimeconfig.cache
 C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\obj\Debug\net7.0\ref\AuctionService.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\bin\Debug\net7.0\Humanizer.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\bin\Debug\net7.0\Npgsql.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\obj\Debug\net7.0\AuctionService.csproj.AssemblyReference.cache
+C:\Users\zabin\This Laptop Storage\Obsidian Notes\Micro-Services-w-dotnet\Code\backend.api.carsite\src\AuctionService\obj\Debug\net7.0\AuctionService.csproj.CopyComplete
