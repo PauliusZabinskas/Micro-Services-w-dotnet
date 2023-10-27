@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98341e645b38b279",
+        "id": "baa2eefc2da7a445",
         "type": "tabs",
         "children": [
           {
-            "id": "2233de629710c33b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c987dffa5324e9a1",
+            "id": "ad61e2124099179a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,21 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c987dffa5324e9a1",
+  "active": "ad61e2124099179a",
   "lastOpenFiles": [
-    "Code/backend.api.carsite/src/AuctionService/Entities/Status.cs",
-    "Code/backend.api.carsite/src/AuctionService/Entities/Item.cs",
-    "Code/backend.api.carsite/src/AuctionService/Entities/Auction.cs",
-    "Code/backend.api.carsite/src/AuctionService/Entities",
-    "Code/backend.api.carsite/src/Entities/Auction.cs",
-    "Code/backend.api.carsite/src/Entities",
-    "Code/backend.api.carsite/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.FileListAbsolute.txt",
-    "Code/backend.api.carsite/src/AuctionService/bin/Debug/net7.0/AuctionService.pdb",
-    "Code/backend.api.carsite/src/AuctionService/obj/Debug/net7.0/ref/AuctionService.dll",
-    "Code/backend.api.carsite/src/AuctionService/bin/Debug/net7.0/AuctionService.dll",
-    "Code/backend.api.carsite/src/AuctionService/bin/Debug/net7.0/AuctionService.runtimeconfig.json",
-    "Notes/Micro Services Project management notes.md",
+    "Code/backend.api.carsite/src/AuctionService/Data/Migrations/AuctionDbContextModelSnapshot.cs",
+    "Code/backend.api.carsite/src/AuctionService/Data/Migrations/20231027161624_Initial Migration.Designer.cs",
+    "Code/backend.api.carsite/src/AuctionService/Data/Migrations/20231027161624_Initial Migration.cs",
+    "Code/backend.api.carsite/src/AuctionService/Data/Migrations",
+    "Code/backend.api.carsite/src/AuctionService/bin/Debug/net7.0/AutoMapper.dll",
+    "Code/backend.api.carsite/src/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll",
+    "Code/backend.api.carsite/src/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll",
+    "Code/backend.api.carsite/src/AuctionService/bin/Debug/net7.0/Humanizer.dll",
+    "Code/backend.api.carsite/src/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll",
+    "Code/backend.api.carsite/src/AuctionService/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll",
+    "Code/backend.api.carsite/src/AuctionService/obj/Debug/net7.0/RCX4F7C.tmp",
+    "Notes/appsettings.Development.md",
     "Notes/Creating the first micro service.md",
+    "Notes/Program class.md",
+    "Notes/Data/AuctionDbContext.md",
+    "Notes/Entities/Auction class.md",
+    "Notes/Entities/Item Class.md",
+    "Notes/Entities/Status Class.md",
+    "Notes/Micro Services Project management notes.md",
     "Notes/Starting point.md",
     "Starting point.md"
   ]
