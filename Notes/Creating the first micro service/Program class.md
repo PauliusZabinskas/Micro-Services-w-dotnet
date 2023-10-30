@@ -25,6 +25,11 @@ builder.Services.AddDbContext<AuctionDbContext>(opt =>
 
   
 
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+  
+  
+
 var app = builder.Build();
 
   
@@ -39,6 +44,22 @@ app.UseAuthorization();
   
 
 app.MapControllers();
+
+  
+
+try
+
+{
+
+    DbInitializer.InitDB(app);
+
+}catch(Exception e)
+
+{
+
+   Console.WriteLine(e);
+
+}
 
   
 
